@@ -1,0 +1,6 @@
+Function foo(a;b){
+            Let i = 0;
+            Let a[5]=[1,2,3,4,5];
+            Constant b="name";
+            Return i;
+        }

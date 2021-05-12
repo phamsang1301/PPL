@@ -1,0 +1,16 @@
+
+        Function foo() {
+            While (i < 5)
+            {
+                i = a + 1;
+                If( i > 0)
+                {
+                    Return (i+1);
+                }
+                Else
+                {
+                    Return 1;
+                }
+            }
+        }
+         

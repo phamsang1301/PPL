@@ -1,0 +1,10 @@
+
+        Function main()
+        {
+            Let s = 0;
+            For i In [1,2,3]   {
+                s = i * 2;
+            }
+            Return 0;
+        }
+        

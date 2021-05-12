@@ -1,0 +1,6 @@
+
+Function foo( a[5], b)
+
+{
+    a = [12,3,[1,2]] = Call(foo,[]);
+}

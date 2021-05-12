@@ -1,0 +1,11 @@
+
+        Function main()
+        {
+            Let i = 0;
+            While  (i < 5) { 
+                a[0] = b + 1.0;
+                i = i + 1;
+            }
+            Return 0;
+        }
+        

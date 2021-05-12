@@ -1,0 +1,10 @@
+
+        Function main(a.b) 
+        { 
+
+            While (statement != 3) 
+            {
+                Let a = 5;
+            } 
+
+        }

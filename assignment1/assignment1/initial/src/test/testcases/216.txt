@@ -1,0 +1,17 @@
+
+        Let zzz;
+        Function foobalu_undenied( a[2,5])
+        {
+        If ( abc == (True || False) )
+        {
+            b = a * 10.e-3;
+        }
+        ## Another condition statement ##
+        Elif (  x * x == 0 )
+        {
+            c = a[8,10] || a && c;
+            }
+        Else 
+            {Continue;}
+        }
+        

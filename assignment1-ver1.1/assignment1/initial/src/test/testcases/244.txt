@@ -1,0 +1,10 @@
+
+        Function main(k)
+        {
+            Let i = 10, k[10,2] = [[], []];
+
+                Break;
+            While ( i <= 10 )  {
+            Return 0;}
+        }
+        

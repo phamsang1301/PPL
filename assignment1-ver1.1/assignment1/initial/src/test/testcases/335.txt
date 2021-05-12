@@ -1,0 +1,8 @@
+
+            Let m,n[10] ;
+            Function  main()
+            {
+
+                While (expression) { a=3 ;} 
+            } 
+            

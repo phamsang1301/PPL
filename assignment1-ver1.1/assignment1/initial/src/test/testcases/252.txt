@@ -1,0 +1,6 @@
+
+        Function main()
+            {
+                a[3+Call(foo,[2])] =  4;
+            }
+            

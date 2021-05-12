@@ -1,0 +1,7 @@
+
+        Function main()
+        {
+            Let r = 10., v;
+            Let v = (4. / 3.) * 3.14 * r * r * r;
+            v = em + la - nang * tho;
+        }

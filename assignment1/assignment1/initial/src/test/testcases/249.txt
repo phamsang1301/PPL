@@ -1,0 +1,10 @@
+
+        Function main()
+        {
+            Let i;
+            For i In [1,2,3] {  
+                Continue i;
+            }  
+            Return 0;
+        }
+        

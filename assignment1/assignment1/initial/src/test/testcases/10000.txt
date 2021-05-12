@@ -1,0 +1,4 @@
+  
+        Function foo(a) {
+a[Call(foo, [2])] = a[b["namea"]["first"]] + 4;
+}

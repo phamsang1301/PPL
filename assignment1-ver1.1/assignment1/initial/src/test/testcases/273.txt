@@ -1,0 +1,18 @@
+
+            Let a = 2;
+            Constant $c = 1;
+            Function foo()
+            {
+                
+                While (a < 0)
+                {
+                    While ( b > 1)
+                    {
+                        a  = a % b;
+                        Let d;
+                        d = a / b;
+                        a = a == b;
+                    }
+                }
+            }
+        

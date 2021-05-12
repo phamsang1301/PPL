@@ -1,0 +1,9 @@
+
+        Function foo() {
+            While (i < 5)
+            {
+                i = a + 1;
+                Break;
+            }
+        }
+         

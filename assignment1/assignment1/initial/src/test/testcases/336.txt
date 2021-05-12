@@ -1,0 +1,9 @@
+
+            Let m,n[10];
+            Function fact(n)
+            {
+                If (a) { a=3;} 
+                Elif (b){b=4;} 
+                Elif (c) {c=5;} 
+            } 
+            

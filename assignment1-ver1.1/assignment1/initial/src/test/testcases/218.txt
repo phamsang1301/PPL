@@ -1,0 +1,8 @@
+
+        Function fun( temp, value)
+            {
+            If (a && b && c == 0){
+                x = Call(fun,[temp- 1]) * Call(fun,[temp% 2]);
+            }
+        }
+        

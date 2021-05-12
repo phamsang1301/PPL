@@ -1,0 +1,10 @@
+ 
+Function foo(){
+    While(input)
+    {
+        a= b + c - a + 2.3e3;
+    }
+
+}
+
+              

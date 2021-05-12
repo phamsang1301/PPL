@@ -1,0 +1,17 @@
+Function foo(a[5], b) {
+                Let i = 0;
+                While (i < 5) {
+                a[i] = b + 1;
+                Let u: Number = i + 1;
+                If (a[u] == 10) {
+                Return a[i];
+                }
+                }
+                For a In [1,2,3]{
+                    Call(foo,[a[1]]);
+                }
+                Call(foo, [2 + x, 4 / y]);
+                Call(goo, []);
+                a[2] = Call(foo, [2]) + Call(foo, [Call(bar, [2, 3])]);
+                Return -1;
+                }

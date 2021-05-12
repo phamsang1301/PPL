@@ -1,0 +1,16 @@
+
+            Function foo( x, y, z)
+                {
+                If ( x == 10.098 || 0 ){
+                    For i In [100,200] { 
+                        While (x > 0.00)  { 
+                            x = x + 1;
+                            Call(print,[x]);
+                        }
+                        Call(print,[a[2]]);
+                    }
+                    }
+                Else {Continue;
+                }
+                }
+            

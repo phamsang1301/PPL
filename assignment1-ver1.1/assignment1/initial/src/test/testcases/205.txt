@@ -1,0 +1,4 @@
+Let x = [[1,2,3],[4,5,6]];
+        ##Another global variable declaration##
+        Let $Y = True;
+        Let temp = 1.876 + 78541;

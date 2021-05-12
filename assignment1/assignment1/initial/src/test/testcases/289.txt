@@ -1,0 +1,8 @@
+
+        Function foo()
+        {
+            Let b: Number;
+            Let a:String = "Saf" +.  "Sadf";
+        }
+
+                

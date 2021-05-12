@@ -1,0 +1,10 @@
+
+        Function test( x, y, z)
+            {
+            For i In [1,2,3]{
+                x = a + b + x;
+                y = a + 12000.;
+                z = b || x && c;
+            }
+            }
+        

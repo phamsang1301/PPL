@@ -1,0 +1,12 @@
+
+        Let a, b, c = 10;
+        Function func()
+        {
+            Return "Hello World";
+        }
+        Function main()
+        {
+            Call(print,[Call(func,[])]);
+            Return;  
+        }
+        

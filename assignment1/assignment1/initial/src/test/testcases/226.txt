@@ -1,0 +1,11 @@
+
+            Let parser = 1814002;
+            Function foo( count, x, y, z)
+                {
+                While ( x == 1.08765 * 2.098 || True)  {
+                    x = x + 1;
+                    y = [1,2,3] * 985475;
+                    z = "This is a string" ==. "abcdxzy";
+                }
+                }
+            

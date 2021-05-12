@@ -1,0 +1,10 @@
+ 
+Function foo(){
+    While(input)
+    {
+        Let a = 5;
+    }
+
+}
+
+              

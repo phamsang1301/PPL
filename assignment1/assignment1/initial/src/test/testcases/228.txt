@@ -1,0 +1,15 @@
+
+            Function sum( a, b)
+                {
+                    Return a + b;
+                }
+            Function main()
+            {
+                Let s = 0;
+                For i In [0,1,2] {
+                    If ( s >= 40 ){ Continue;
+                    }
+                s = s + Call(sum,[i, i + 1]);
+                }
+                }
+            

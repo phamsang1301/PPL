@@ -1,0 +1,12 @@
+
+        Let x[3,3 * (4 + Call(f,[2]) - 4)];
+        Function main( k)
+        {
+            Let i = 0;
+            While ( i < 5)  {
+                a[0] = b + 1.0;
+                i = i + 1;
+            }
+            Return 0;
+        }
+        

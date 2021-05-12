@@ -1,0 +1,10 @@
+
+                Function foo(a) {
+                    Let b: String = a["name"] + a["address"];
+                    Let c: JSON = {};
+                    a["name"] = "Qianqing Palace";
+                    b= True;
+                    While(b==2){
+                    }
+                    Return ;
+                }

@@ -1,0 +1,11 @@
+
+            Let a = 2;
+            Constant $c = 1;
+            Function foo()
+            {
+                Let v = 2;
+                Constant $d = 1;
+                a = (3<5) == True && (2>5) || (5>2);
+
+            }
+        

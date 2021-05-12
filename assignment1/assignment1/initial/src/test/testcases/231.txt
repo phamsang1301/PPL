@@ -1,0 +1,13 @@
+
+            Let parser = 1814002;
+            Let temp = "abcd";
+            Function foo( x, y, z)
+                {
+                    x = x + 1;
+                    y = y % 10;
+                While (x + y > 10 )
+                {
+                    a = b;
+                }    
+                }
+            

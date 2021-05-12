@@ -1,0 +1,26 @@
+Function foo(a[5],b) 
+        {
+                Let i = 0;
+                While (i < 5) 
+            {
+                a[i] = b + 1;
+                Let u: Number = i + 1;
+                If (a[u] == 10) 
+                {
+                    If(b==5)
+                    {
+                        Return a[i];
+                    }
+                    Elif(b==5)
+                    {
+                        i=i+1;
+                    }
+                    Else
+                    {
+                        Return 0;
+                    }
+                }
+            }
+                a[2] = Call(foo, [2]) + Call(foo, [Call(bar, [2, 3])]);
+                Return a[2] + Call(foo, [2]) + Call(foo, [Call(bar, [2, 3])]);
+        }

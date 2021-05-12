@@ -1,0 +1,13 @@
+
+        Function fun( temp, value)
+            {
+            }
+        Function main( x, y, z)
+            {
+            If (a == c || xyz ){
+                Return;}
+            Elif ( b - c == a + 12.e-85){
+                Break;
+            }    
+            }
+        

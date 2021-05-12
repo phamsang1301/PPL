@@ -1,0 +1,14 @@
+
+        Let a, b, c = 10 + 2 * 4;
+        Function main()
+        {
+            Let i = 0, arr[10];
+            c = arr[0];
+            For i In [1,2,3]   {
+                If (c < arr[i]){
+                    c = arr[i];
+                }
+            }  
+            Return 0;
+        }
+        

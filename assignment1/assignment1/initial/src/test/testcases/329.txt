@@ -1,0 +1,12 @@
+ 
+Function foo(){
+    While(input)
+    {
+        Let a = "ss";
+        Let b =  "ss";
+        c = (a==.b);
+        Let d;
+        d = a+. b;
+    }
+}
+  

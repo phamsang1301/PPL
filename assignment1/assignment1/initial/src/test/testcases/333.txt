@@ -1,0 +1,7 @@
+
+        Let  m,n[10] ;
+        Function main()
+        {
+            Return Call(hello, [n]);
+        }
+            

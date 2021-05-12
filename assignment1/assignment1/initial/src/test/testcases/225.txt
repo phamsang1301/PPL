@@ -1,0 +1,16 @@
+
+        ## Comment start at here ?? ##
+            Let par = True;
+            Function printArray( a[10])
+                {
+                For i In [1,2,3]{
+                    x = i + 10;
+                    Call(print,[x]);
+                    If  (x == 0){
+                        x = x >= 777 * False;
+                        y = False && (a - b);
+                    }
+                    Break;
+                }
+                }
+            

@@ -1,0 +1,14 @@
+
+        Let m,n[10];
+        Function fact()
+        {
+            If (n == 6)
+            {
+                Return 1;
+            }
+            Else 
+            {
+                Return n * Call(fact, [n - 1]);
+            }
+        }
+        

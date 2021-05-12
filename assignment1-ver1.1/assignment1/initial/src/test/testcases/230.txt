@@ -1,0 +1,18 @@
+
+            Let parser = 1814002;
+            Let temp = [[1,2,3],[1,2,3]];
+            Function foo( x, y, z)
+                {
+                While ( x % z != 1814002) {
+                    If ( s >= 40 ){ Continue;}
+                    Elif ( s >= 10.1e-492 ){ Break;}
+                    Elif ( temp < 12340. ){ Continue;}
+                    Else {i = i + 1;
+                    }
+                    ## Multiline Comment
+                    y = [1,2,3] * 985475;
+                    #z = "This is a string" == "abcdxzy";
+                    ##
+                }
+                }
+            

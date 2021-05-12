@@ -1,0 +1,5 @@
+
+        Function foo() {
+            Call(foo, [2 + x, 4 / y]);
+        }
+         
